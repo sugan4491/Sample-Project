@@ -1,0 +1,3 @@
+[submodule "AndroidApp"]
+	path = AndroidApp
+	url = https://github.com/sugan4491/AndroidApp
